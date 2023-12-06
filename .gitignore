@@ -1,6 +1,16 @@
+# IntelliJ
 .idea
-cmake-build-debug
+# VS Code
+.vscode/
+
+# Visual Studio
+d-debug
 .vs
 CMakeSettings.json
 out
+
+# Compiled class file C++
 *.exe
+
+# Compiled class file Java
+*.class
