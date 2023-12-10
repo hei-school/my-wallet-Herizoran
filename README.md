@@ -22,10 +22,10 @@ To implement those features, we need to inherit the **Wallet** class.
 ### Usage
 To get access to the other languages:
 
-* [C++](https://github.com/hei-school/cc-d1-my-wallet-Herizoran/tree/feature/cpp)
-* [Python](https://github.com/hei-school/cc-d1-my-wallet-Herizoran/tree/feature/python)
-* [Java](https://github.com/hei-school/cc-d1-my-wallet-Herizoran/tree/feature/java)
-* [JavaScript](https://github.com/hei-school/cc-d1-my-wallet-Herizoran/tree/feature/javascript)
+* [C++](https://github.com/hei-school/my-wallet-Herizoran/tree/feature/cpp)
+* [Python](https://github.com/hei-school/my-wallet-Herizoran/tree/feature/python)
+* [Java](https://github.com/hei-school/my-wallet-Herizoran/tree/feature/java)
+* [JavaScript](https://github.com/hei-school/my-wallet-Herizoran/tree/feature/javascript)
 
 ## License
 
